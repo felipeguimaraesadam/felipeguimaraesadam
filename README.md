@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Felipe Guimarães
+- 👀 I’m interested in science & technology
+- 🌱 I’m currently learning more about CSS, HTML and Javascript skills
+- 💞️ I'm looking to collaborate on open source projects
+- 📫 How to reach me ...
+- ✉ IDNG3@hotmail.com
+- 🇧🇷 (87) 99938-2563
